@@ -1,0 +1,17 @@
+body {
+  background-color: #EEEEEE;
+}
+
+.logo {
+  margin-top: 10%;
+  width: 310px;
+  min-width: 310px;
+}
+
+.login {
+  width:310px;
+}
+
+.box {
+  border: 1px solid red;
+}
